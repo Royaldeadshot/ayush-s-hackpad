@@ -37,19 +37,19 @@
 ###### 
 
 * #### Overall Hackpad
-
+![Screenshot of the fully assembled hackpad](full_macropad_ss.png)
 #### 
 
 * #### Schematic
-
+![Screenshot of the schematic](pcb_schematic_ss.png)
 #### 
 
 * #### PCB Layout
-
+![Screenshot of the pcb board](pcb_board_ss.png)
 #### 
 
 * #### Case + How It Fits Together
-
+![Screenshot of the assembly](assembly_ss.png)
 ###### 
 
 ###### 
@@ -149,4 +149,5 @@
 ##### 
 
 ##### Idle animation resumes after volume change
+
 
