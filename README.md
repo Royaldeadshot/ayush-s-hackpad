@@ -37,7 +37,7 @@
 ###### 
 
 * #### Overall Hackpad
-![Screenshot of the fully assembled hackpad](full_macropad_ss.png)
+![Screenshot of the fully assembled hackpad](https://github.com/user-attachments/assets/6b8b4550-b070-447c-9bf1-b4bf95e4c0e6)
 #### 
 
 * #### Schematic
@@ -149,6 +149,7 @@
 ##### 
 
 ##### Idle animation resumes after volume change
+
 
 
 
